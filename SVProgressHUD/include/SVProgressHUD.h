@@ -7,6 +7,7 @@
 
 #import <../SVProgressHUD-Prefix.pch>
 
+#import <../SVProgressHUD.h>
 #import <../SVIndefiniteAnimatedView.h>
 #import <../SVProgressAnimatedView.h>
 #import <../SVRadialGradientLayer.h>
